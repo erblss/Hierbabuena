@@ -1,3 +1,4 @@
+
 # Hierbabuena
 
 ## Descripción del juego
@@ -33,6 +34,9 @@ El nombre del equipo es "HIERBABUENA"
 
 ## Diario del desarrollo
 Durante la primera semana realizamos la base del juego, haciendo el laberinto y los puntitos que se debe comer pac-man. También se desarrollo el personaje principal con su disfraz y por último se comenzó a hacer los fantasmas que intentarán eliminar a pac-man. 
+
+![enter image description here](https://raw.githubusercontent.com/erblss/Hierbabuena/refs/heads/main/imagenes/Captura%20de%20pantalla%202025-01-14.png)
+![](https://raw.githubusercontent.com/erblss/Hierbabuena/refs/heads/main/imagenes/Captura%20de%20pantalla%202025-01-15%20100130.png)
+
+
 La segunda semana continuamos organizando un poco el Readme para poder continuar desarrollando el proceso del juego de forma más adecuada; mientras continuamos con el desarrollo de los fantasmas por la plantilla incluyendo todos sus movimientos. El segundo día ya comenzamos a ver el segundo video para ponerlo en nuestro proyecto de scratch. Queda que remarcar principalmente que las imágenes que subimos son únicamente de como avanza el juego con el transcurso de los días debido a que todo lo que se plasma en él lo estamos dibujando nosotros con las herramientas que nos proporciona scratch. Y ya manos a la obra con la segunda parte del juego.
-
-
