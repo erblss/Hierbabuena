@@ -40,3 +40,10 @@ Durante la primera semana realizamos la base del juego, haciendo el laberinto y 
 
 
 La segunda semana continuamos organizando un poco el Readme para poder continuar desarrollando el proceso del juego de forma más adecuada; mientras continuamos con el desarrollo de los fantasmas por la plantilla incluyendo todos sus movimientos. El segundo día ya comenzamos a ver el segundo video para ponerlo en nuestro proyecto de scratch. Queda que remarcar principalmente que las imágenes que subimos son únicamente de como avanza el juego con el transcurso de los días debido a que todo lo que se plasma en él lo estamos dibujando nosotros con las herramientas que nos proporciona scratch. Y ya manos a la obra con la segunda parte del juego.
+
+
+Durante la segunda semana, creamos los fantasmas y ajustamos todos los marcos para que estos no desaparecieran cuando seguían su trayectoria. Una vez creados, configuramos su misión en la que si pacman impactaba con alguno de ellos, se enviaría el mensaje de derrota.
+
+![enter image description here](https://raw.githubusercontent.com/erblss/Hierbabuena/refs/heads/main/imagenes/Captura%20de%20pantalla%202025-01-22%20094229.png)
+ 
+![enter image description here](https://raw.githubusercontent.com/erblss/Hierbabuena/refs/heads/main/imagenes/Captura%20de%20pantalla%202025-01-22%20094353.png)
