@@ -9,7 +9,7 @@
 	 - Elena Robles Casas 
 	 - Rosario Vivo Pérez
 
--  El nombre otorgado es "NOMBRE"
+-  El nombre otorgado es "Puckman"
 
 
 ## Enlaces a los Materiales Usados
