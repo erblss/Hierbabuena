@@ -47,3 +47,5 @@ Durante la segunda semana, creamos los fantasmas y ajustamos todos los marcos pa
 ![enter image description here](https://raw.githubusercontent.com/erblss/Hierbabuena/refs/heads/main/imagenes/Captura%20de%20pantalla%202025-01-22%20094229.png)
  
 ![enter image description here](https://raw.githubusercontent.com/erblss/Hierbabuena/refs/heads/main/imagenes/Captura%20de%20pantalla%202025-01-22%20094353.png)
+
+El enlace al trabajo de canvae: https://www.canva.com/design/DAGdkKYm7QU/Sg81-G73cK6s6osv0lYTAg/edit?utm_content=DAGdkKYm7QU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
