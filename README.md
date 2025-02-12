@@ -30,7 +30,9 @@ Para su realización nos hemos guiado con los siguientes tutoriales:
 
 [](https://github.com/erblss/Hierbabuena/edit/main/README.md#instrucciones-para-jugar-y-enlace-al-juego)
 
-En este juego es necesario utilizar las teclas de las flechas que aparecen en la parte derecha del teclado en la parte baja; estas son las que te permitirán moverte por el juego hacia todas las direcciones y así poder tanto comerte los puntitos que son comida para poder seguir y también huir de los fantasmas. El objetivo principal del juego es comerte todas las bolitas de comida para pasar al siguiente nivel. El enlace del juego para que cualquier persona que desee jugar pueda es el siguiente: "ENLACE"
+En este juego es necesario utilizar las teclas de las flechas que aparecen en la parte derecha del teclado en la parte baja; estas son las que te permitirán moverte por el juego hacia todas las direcciones y así poder tanto comerte los puntitos que son comida para poder seguir y también huir de los fantasmas. El objetivo principal del juego es comerte todas las bolitas de comida para pasar al siguiente nivel. El enlace del juego para que cualquier persona que desee jugar pueda es el siguiente: "[Enlace al juego](https://scratch.mit.edu/projects/1109103564)"
+
+[Enlace a drive ](https://drive.google.com/file/d/1kUwXghctgqJ9DzssL_1I80Bi739wPMY4/view?usp=sharing)
 
 ## Nombre del equipo
 
@@ -74,11 +76,7 @@ En la tercera semana también incluimos los superpoderes con los que nuestro per
 
 
 
-https://drive.google.com/file/d/1kUwXghctgqJ9DzssL_1I80Bi739wPMY4/view?usp=sharing
-
-
-
-
-
 
 Para acceder al enlace del trabajo de canva [*pincha aquí*](%28https://www.canva.com/design/DAGdkKYm7QU/Sg81-G73cK6s6osv0lYTAg/edit?utm_content=DAGdkKYm7QU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton%29)
+
+
