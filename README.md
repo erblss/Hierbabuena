@@ -31,7 +31,9 @@ Para su realización nos hemos guiado con los siguientes tutoriales:
 
 En este juego es necesario utilizar las teclas de las flechas que aparecen en la parte derecha del teclado en la parte baja; estas son las que te permitirán moverte por el juego hacia todas las direcciones y así poder tanto comerte los puntitos que son comida para poder seguir y también huir de los fantasmas. El objetivo principal del juego es comerte todas las bolitas de comida para pasar al siguiente nivel. El enlace del juego para que cualquier persona que desee jugar pueda es el siguiente: "[Enlace al juego](https://scratch.mit.edu/projects/1109103564)"
 
-[Enlace a drive ](https://drive.google.com/file/d/1kUwXghctgqJ9DzssL_1I80Bi739wPMY4/view?usp=sharing)
+[Enlace a drive ](https://drive.google.com/file/d/1kUwXghctgqJ9DzssL_1I80Bi739wPMY4/view?usp=sharing) 
+
+
 [Enlace a la presentación](https://github.com/erblss/Hierbabuena/blob/8944386970206eca8a11962dcc6abbe6b1bacd5b/PUCKMAN%20PRESENTATION.pdf)
 
 ## Nombre del equipo
