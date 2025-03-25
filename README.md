@@ -25,13 +25,14 @@ Para su realización nos hemos guiado con los siguientes tutoriales:
 -   [Parte dos del video para crear pac-man en scratch](https://www.youtube.com/watch?v=wUzN7DxgTxA&pp=ygUfY29tbyBoYWNlciBlbCBqdWVnbyBkZSBwYWNtYW4gMg==)
 -   Además incluimos algunas capturas de como va avanzando el juego semana a semana.
 
-## Instrucciones para jugar y enlace al juego
+## Instrucciones para jugar y enlace al juego 
 
 [](https://github.com/erblss/Hierbabuena/edit/main/README.md#instrucciones-para-jugar-y-enlace-al-juego)
 
 En este juego es necesario utilizar las teclas de las flechas que aparecen en la parte derecha del teclado en la parte baja; estas son las que te permitirán moverte por el juego hacia todas las direcciones y así poder tanto comerte los puntitos que son comida para poder seguir y también huir de los fantasmas. El objetivo principal del juego es comerte todas las bolitas de comida para pasar al siguiente nivel. El enlace del juego para que cualquier persona que desee jugar pueda es el siguiente: "[Enlace al juego](https://scratch.mit.edu/projects/1109103564)"
 
 [Enlace a drive ](https://drive.google.com/file/d/1kUwXghctgqJ9DzssL_1I80Bi739wPMY4/view?usp=sharing)
+[Enlace a la presentación](https://github.com/erblss/Hierbabuena/blob/8944386970206eca8a11962dcc6abbe6b1bacd5b/PUCKMAN%20PRESENTATION.pdf)
 
 ## Nombre del equipo
 
@@ -71,6 +72,3 @@ En la tercera semana también incluimos los superpoderes con los que nuestro per
 
 
 ![Captura-de-pantalla-2025-02-12-094214.png](https://i.postimg.cc/65RW9t0X/Captura-de-pantalla-2025-02-12-094214.png)
-
-
-Para acceder al enlace del trabajo de canva [pincha aquí](https://www.canva.com/design/DAGdkKYm7QU/Sg81-G73cK6s6osv0lYTAg/edit?utm_content=DAGdkKYm7QU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
